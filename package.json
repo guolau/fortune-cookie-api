@@ -1,0 +1,27 @@
+{
+  "name": "fun-facts-api",
+  "version": "0.0.1",
+  "description": "A simple API for fun facts.",
+  "main": "index.js",
+  "scripts": {
+    "ts-node": "ts-node",
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guolau/fun-facts-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guolau/fun-facts-api/issues"
+  },
+  "homepage": "https://github.com/guolau/fun-facts-api#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.4"
+  }
+}
